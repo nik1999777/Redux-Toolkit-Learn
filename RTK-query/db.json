@@ -1,26 +1,6 @@
 {
   "posts": [
     {
-      "id": 8,
-      "title": "asdasd",
-      "body": "typicode"
-    },
-    {
-      "title": "123123",
-      "body": "123123",
-      "id": 12
-    },
-    {
-      "title": "NEW POST",
-      "body": "NEW POST",
-      "id": 14
-    },
-    {
-      "title": "123123",
-      "body": "123123",
-      "id": 16
-    },
-    {
       "title": "asdasdasd",
       "body": "asdasdasd",
       "id": 17
@@ -29,6 +9,21 @@
       "title": "asd",
       "body": "asd",
       "id": 18
+    },
+    {
+      "title": "Maks",
+      "body": "Maks",
+      "id": 19
+    },
+    {
+      "title": "Nikita",
+      "body": "Nikita",
+      "id": 20
+    },
+    {
+      "title": null,
+      "body": null,
+      "id": 21
     }
   ],
   "comments": [],
