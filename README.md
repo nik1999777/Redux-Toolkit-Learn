@@ -1,12 +1,12 @@
 # Redux-Toolkit-Learn
 Learning projects - Redux-Toolkit.
 
-redux-toolkit
-![Alt text](screenshots/todo.png?raw=true "Optional Title")
-redux-toolkit-async
-![Alt text](screenshots/todo.png?raw=true "Optional Title")
-RTK-query
-![Alt text](screenshots/todo.png?raw=true "Optional Title")
+## redux-toolkit
+![Alt text](screenshots/redux-toolkit.png?raw=true "Optional Title")
+## redux-toolkit-async
+![Alt text](screenshots/redux-toolkit-async.png?raw=true "Optional Title")
+## RTK-query
+![Alt text](screenshots/rtk-query.png?raw=true "Optional Title")
 
 ## Technology
 - [React](https://reactjs.org/)
@@ -20,17 +20,45 @@ RTK-query
 ### Installing dependencies
 To install dependencies, run the command:
 ```sh
+$ cd redux-toolkit
+$ yarn
+```
+```sh
+$ cd redux-toolkit-async
+$ yarn
+```
+```sh
+$ cd RTK-query
 $ yarn
 ```
 
 ### Launching a development server
 To start the development server, run the command:
 ```sh
+$ cd redux-toolkit
 $ yarn start
+```
+```sh
+$ cd redux-toolkit-async
+$ yarn start
+```
+```sh
+$ cd RTK-query
+$ yarn start
+$ yarn json-server --watch db.json --port 3000
 ```
 
 ### Build project
 To build a project, run the command:
 ```sh
+$ cd redux-toolkit
+$ yarn build
+```
+```sh
+$ cd redux-toolkit-async
+$ yarn build
+```
+```sh
+$ cd RTK-query
 $ yarn build
 ```
